@@ -5,7 +5,7 @@
 2. system calls like system("clear") or system("cls") etc.
 3. Nested if - else
 >Here are Some Images ::
-![image1](https://replit.com/@abdullah8674/Car-Management-System#images/Screenshot%20from%202023-03-02%2016-29-50.png)
-![image2](https://replit.com/@abdullah8674/Car-Management-System#images/Screenshot%20from%202023-03-02%2016-30-06.png)
-![image3](https://replit.com/@abdullah8674/Car-Management-System#images/Screenshot%20from%202023-03-02%2016-30-44.png)
-![image4](https://replit.com/@abdullah8674/Car-Management-System#images/Screenshot%20from%202023-03-02%2016-31-26.png)
+![image1](images/image1.png)
+![image2](images/image2.png)
+![image3](images/image3.png)
+![image4](images/image4.png)
