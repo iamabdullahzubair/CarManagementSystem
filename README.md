@@ -1,10 +1,11 @@
 # Car Management System using C++
 ### A basic c++ program to get records of CAR Parking area.
->I have learnt :
+## I have learnt :
 1. functions
 2. system calls like system("clear") or system("cls") etc.
 3. Nested if - else
 >Here are Some Images ::
+
 ![image1](images/image1.png)
 ![image2](images/image2.png)
 ![image3](images/image3.png)
